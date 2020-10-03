@@ -1,0 +1,2 @@
+# Notepadusingtkinter
+Now a days, a lot of Text Editors are available on the Internet. Tkinter is a GUI library from python from which we can create multiple GUI apps. Here, using tkinter we will develop a notepad like text editor. This notepad will have the menu where we can create a new file, open existing file, save the file, editing, cut and paste, all functionality will there. We need Python and Tkinter Library to develop and run this notepad.
